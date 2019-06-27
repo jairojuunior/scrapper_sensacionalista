@@ -1,2 +1,6 @@
-# scrapper_sensacionalista
-Scrape Sensacionalista.com.br news titles and generate phrases. Enjoy it!
+# Generate possible headlines for Sensacionalista.com.br
+
+## Data
+The data was scrapped from XX pages of Sensacionalista using Scrapy
+
+TO DO
